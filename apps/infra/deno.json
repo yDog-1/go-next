@@ -1,0 +1,14 @@
+{
+	"tasks": {
+		"biome": "deno run -A npm:@biomejs/biome@latest",
+		"cdk": "deno run -A npm:aws-cdk@latest"
+	},
+	"imports": {
+		"@/": "./",
+		"cdk": "npm:aws-cdk-lib@^2.164.1",
+		"constructs": "npm:constructs@^10.0.0"
+	},
+	"fmt": {
+		"useTabs": true
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"tasks": {
+		"biome": "deno run -A npm:@biomejs/biome@latest"
+	},
+	"fmt": {
+		"useTabs": true
+	},
+	"nodeModulesDir": "auto"
+}

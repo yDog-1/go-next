@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "./apps/backend"
+		},
+		{
+			"path": "./apps/frontend"
+		},
+		{
+			"path": "./apps/infra"
+		}
+	],
+	"settings": {
+		"deno.enable": true
+	}
+}
